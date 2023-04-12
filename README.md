@@ -1,3 +1,6 @@
+Hi guys! 
+I'm still learning so please, be patient on me. As you can see I do many exercises - your advices would be very helpful if you want of course. But something more about me:
+
 🌱 I’m currently learning C++, C#. Also really want to learn JS in the future.
 
 💻 I’m looking to collaborate on game dev when I learn something more. I love video games since I was little kid.

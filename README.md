@@ -1,5 +1,5 @@
-🌱 I’m currently learning C++, C#. Also really want to learn JS in the future.
-💻 I’m looking to collaborate on game dev when I learn something more. I love video games since I was little kid.
+🌱 I’m currently learning C++, C#. Also really want to learn JS in the future.\n 
+💻 I’m looking to collaborate on game dev when I learn something more. I love video games since I was little kid.\n
 🚀 I had internship on Polish Space Agency - Defense Department in Warsaw. 
 🎇 I also had workship on Heavy Ion Laboratory in Warsaw.
 

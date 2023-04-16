@@ -1,4 +1,3 @@
-[MasterHead](https://38.media.tumblr.com/440a34dda29466e0d2896ba982b8e8b6/tumblr_ngy9vsbJna1qav3uso1_500.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Patrycja</h1>
 <h3 align="center">A passionate game developer from Poland.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/W9_8dfFmyr0AAAAC/pixel-game.gif">

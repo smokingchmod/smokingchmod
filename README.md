@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://fb.com/pati.zuber.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pati.zuber.3" height="30" width="40" /></a>
 <a href="https://instagram.com/smokingchmod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smokingchmod" height="30" width="40" /></a>
-<a href="https://discord.gg/Sad Panda#8689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sad Panda#8689" height="30" width="40" /></a>
+<a href="https://discord.gg/327159746551611392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="327159746551611392" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

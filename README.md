@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **C++ | C# | Unity | Unreal. It's a lot, I know. I'm begginer but I do it all days and I just love it.**
 
-- 📄 My CV: [https://cveasy.pl/r/73WBuT85x](https://cveasy.pl/r/73WBuT85x)
-
 - 👨‍💻 All of my projects are available **here, on GitHub. It's kinda my portfolio so you can help on what I was working with scientifical help or alone.**
 
 - 📝 I regularly write articles on **https://www.facebook.com/mindustrier/ but it's more about my poet work.**

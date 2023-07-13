@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my new game - will post code here soon.**
 
-- 🤝 I’m looking for help with **anything with game dev - with joy will listen about your knowledge and share mine.**
+- 🤝 I’m looking for help with **anything with game dev or pentesting - with joy will listen about your knowledge and share mine.**
 
 - 🌱 I’m currently learning **C++ | C# | Unity | Unreal. It's a lot, I know. I'm begginer but I do it all days and I just love it.**
 

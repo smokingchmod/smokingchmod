@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C++ | Unreal | Cybersecurity**
 
-- 👨‍💻 All of my projects are available **here, on GitHub.**
+- 👨‍💻 Most of my projects are available **here, on GitHub.**
 
 - 📝 I regularly write articles on **https://www.facebook.com/mindustrier/ but it's more about my poet work.**
 

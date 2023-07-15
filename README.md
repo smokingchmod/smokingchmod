@@ -4,7 +4,7 @@
 
 - 🤝 I’m looking for help with **anything with game dev or cybersec. With joy would listen about your knowledge and share mine.**
 
-- 🌱 I’m currently learning **C++ | Unreal | Penetration test**
+- 🌱 I’m currently learning **C++ | Unreal | Cybersecurity**
 
 - 👨‍💻 All of my projects are available **here, on GitHub.**
 

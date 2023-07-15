@@ -4,11 +4,11 @@
 
 - 🤝 I’m looking for help with **anything with game dev or cybersec. With joy would listen about your knowledge and share mine.**
 
-- 📝 I regularly write articles on **https://www.facebook.com/mindustrier/ but it's more about my poet work.**
-
 - 🌱 I’m currently learning **C++ | Unreal | Penetration test**
 
-- 👨‍💻 All of my projects are available **here, on GitHub. It's kinda my portfolio so you can help on what I was working with scientifical help or alone.**
+- 👨‍💻 All of my projects are available **here, on GitHub.**
+
+- 📝 I regularly write articles on **https://www.facebook.com/mindustrier/ but it's more about my poet work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

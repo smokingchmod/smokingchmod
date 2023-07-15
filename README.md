@@ -2,7 +2,7 @@
 <h3 align="center">A passionate informatician from Poland.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif">
 
-- 🤝 I’m looking for help with **anything with game dev or cybersec - with joy will listen about your knowledge and share mine.**
+- 🤝 I’m looking for help with **anything with game dev or cybersec. With joy would listen about your knowledge and share mine.**
 
 - 📝 I regularly write articles on **https://www.facebook.com/mindustrier/ but it's more about my poet work.**
 

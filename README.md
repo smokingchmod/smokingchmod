@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **anything with game dev or cybersec. With joy would listen about your knowledge and share mine.**
 
-- 👨‍💻 All of my projects are available at [here, on GitHub and on my portfolio **https://patrycjazuber.my.canva.site/original-portfolio**](here, on GitHub and on my portfolio **https://patrycjazuber.my.canva.site/original-portfolio**)
+- 👨‍💻 All of my projects are available at here, on GitHub and on my portfolio **https://patrycjazuber.my.canva.site/original-portfolio**
 
 - 📝 I regularly write articles on [https://www.facebook.com/mindustrier/ but it's more about my poet work.](https://www.facebook.com/mindustrier/ but it's more about my poet work.)
 

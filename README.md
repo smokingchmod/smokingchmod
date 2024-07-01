@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at here, on GitHub and on my portfolio **https://patrycjazuber.my.canva.site/original-portfolio**
 
-- 📝 I regularly write articles on [https://www.facebook.com/mindustrier/ but it's more about my poet work.](https://www.facebook.com/mindustrier/ but it's more about my poet work.)
+- 📝 I regularly write articles on **https://www.facebook.com/mindustrier/ but it's more about my poet work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

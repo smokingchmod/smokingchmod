@@ -4,9 +4,9 @@
 
 - 🤝 I’m looking for help with **anything with game dev or cybersec. With joy would listen about your knowledge and share mine.**
 
-- 🌱 I’m currently learning **C++ | Unreal | Cybersecurity**
+- 🌱 I’m currently learning **C++ | Unreal | Arduino**
 
-- 👨‍💻 Most of my projects are available **here, on GitHub.**
+- 👨‍💻 Most of my projects are available **here, on GitHub** and on my portfolio **https://patrycjazuber.my.canva.site/original-portfolio**
 
 - 📝 I regularly write articles on **https://www.facebook.com/mindustrier/ but it's more about my poet work.**
 

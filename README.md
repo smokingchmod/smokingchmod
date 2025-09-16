@@ -4,15 +4,13 @@
 
 - 🔭 I’m currently working on **Analog Astronaut missions**
 
-- 🌱 I’m currently learning **C++ | Unreal | Arduino**
+- 🌱 I’m currently learning **C++ | Unreal | Arduino | Python**
 
-- 👯 I’m looking to collaborate on **Project Eros**
+- 👯 I’m looking to collaborate on **Data analysis Python**
 
-- 🤝 I’m looking for help with **anything with game dev or cybersec. With joy would listen about your knowledge and share mine.**
+- 🤝 I’m looking for guidelines or instructions for educational materials **related to the topics I’m currently learning.**
 
-- 👨‍💻 All of my projects are available at here, on GitHub and on my portfolio **https://patrycjazuber.my.canva.site/original-portfolio**
-
-- 📝 I regularly write articles on **https://www.facebook.com/mindustrier/ but it's more about my poet work.**
+- 👨‍💻 All of my projects are available at here, on GitHub and on my portfolio **https://patrycjazuber.my.canva.site/original-portfolio & https://smokingchmod.artstation.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

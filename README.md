@@ -2,11 +2,11 @@
 <h3 align="center">A passionate scientist from Poland.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif">
 
-- 🔭 I’m currently working on **Analog Astronaut missions**
+- 🔭 I’m currently working on **Analog Astronaut Missions**
 
 - 🌱 I’m currently learning **C++ | Unreal | Arduino | Python**
 
-- 👯 I’m looking to collaborate on **Data analysis Python**
+- 👯 I’m looking to collaborate on **Data Analysis Python**
 
 - 🤝 I’m looking for guidelines or instructions for educational materials **related to the topics I’m currently learning.**
 
